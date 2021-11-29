@@ -7,10 +7,11 @@ The motivation of the project was to build the back end for an e-commerce site b
 
 ## Deloyed Site Screenshot
 
-![image]( )
+![image](https://github.com/tcrear/e-commerce-back-end/blob/main/assets/Capture-13.JPG)
 
 
 ## Link to Deployed Site
 
 [Link to GitHub](https://github.com/tcrear/e-commerce-back-end)
+[Link to Screencastify](https://watch.screencastify.com/v/2QMc2ViX1S0f0qHRPLCB)
 
